@@ -1,6 +1,6 @@
 :root {
     --background: #303032;
-    --dark: #f8f8f8;
+    --fill: #f8f8f8;
   }
   
   * {
@@ -19,8 +19,8 @@
   
   .box {
     position: relative;
-    background: var(--dark);
-    border: 0.15rem solid var(--dark);
+    background: var(--fill);
+    border: 0.15rem solid var(--fill);
     width: 8rem;
     height: 8rem;
     outline: 0;
